@@ -36,6 +36,6 @@ This modpack uses lots of mods to make Minecraft have higher performance as Mine
 - [Sodium](https://modrinth.com/mod/AANobbMI) by JellySquid \(jellysquid3\)
 - [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) by FlashyReese
 - [Very Many Players](https://modrinth.com/mod/wnEe9KBa) by ishland
-- [XXLPackets](https://modrinth.com/mod/SeCuopwJ) by Tfarecnim \(Original Creator\), Lazul1ne
+- [XXLPackets](https://modrinth.com/mod/SeCuopwJ) by Tfarecnim \(Original Creator\), Lazul1ne \(Unavaliable on Curseforge\)
 - [lazy\-language\-loader](https://modrinth.com/mod/Nz0RSWrF) by ChachyDev
 - [spark](https://modrinth.com/mod/l6YH9Als) by Luck
