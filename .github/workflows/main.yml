@@ -1,0 +1,29 @@
+on:
+  push:
+    branches:
+    - main/Modrinth/*
+    - main/Curseforge/*
+  workflow_dispatch:
+jobs:
+  build-modpack:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+      - uses: actions/checkout@v6
+        with:
+          repository: 'imveryh4ppy/unsimply-decent'
+          path: 'the_repository_itself'
+      - name: Build modpack
+      - run: sudo apt-get install zip
+      - run: zip -r Unsimply-Decent.mrpack $GITHUB_WORKSPACE/the_repository_itself/Modrinth/*
+      - run: zip -r Unsimply-Decent.zip $GITHUB_WORKSPACE/the_repository_itself/Curseforge/*
+      - name: Upload artifacts modrinth
+      - uses: actions/upload-artifact@v4
+        with:
+          name: unsimply-decent-modrinth
+          path: Unsimply-Decent.mrpack
+      - name: Upload artifacts curseforge
+      - uses: actions/upload-artifact@v4
+        with:
+          name: unsimply-decent-curseforge
+          path: Unsimply-Decent.zip
