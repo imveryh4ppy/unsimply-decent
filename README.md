@@ -4,6 +4,10 @@ A fabric modpack that makes Minecraft have higher performance with lots of mods.
 # Why should i use this?
 This modpack uses lots of mods to make Minecraft have higher performance as Minecraft is not really optimized, and this modpack easy the process of finding mods.
 
+# Downloads
+[<img src="readme-stuff/download-github.png" width="200" height="100">](https://github.com/imveryh4ppy/unsimply-decent/releases/latest)
+[<img src="readme-stuff/download-modrinth.png" width="200" height="100">)](https://modrinth.com/modpack/unsimply-decent)
+
 # Modlist
 - [Almanac](https://modrinth.com/mod/Gi02250Z) by frikinjay
 - [BadOptimizations](https://modrinth.com/mod/g96Z4WVZ) by Thosea
