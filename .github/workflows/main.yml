@@ -22,6 +22,6 @@ jobs:
         uses: actions/upload-artifact@v7
         with:
           name: unsimply-decent-builds
-          path:
-            - Unsimply-Decent.mrpack
-            - Unsimply-Decent.zip
+          path: |
+            Unsimply-Decent.mrpack
+            Unsimply-Decent.zip
