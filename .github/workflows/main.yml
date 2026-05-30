@@ -16,11 +16,10 @@ jobs:
           path: 'the_checkout'
       - name: Build modpack
         run: |
-          sudo apt-get update && sudo apt-get install -y zip
-          zip -r Unsimply-Decent.mrpack the_checkout/Modrinth/*
-          zip -r Unsimply-Decent.zip the_checkout/Curseforge/*
+          zip -r Unsimply-Decent.mrpack the_checkout/Modrinth/
+          zip -r Unsimply-Decent.zip the_checkout/Curseforge/
       - name: Upload artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: unsimply-decent-builds
           path:
