@@ -25,3 +25,4 @@ jobs:
           path: |
             Unsimply-Decent.mrpack
             Unsimply-Decent.zip
+          archive: false
