@@ -18,11 +18,15 @@ jobs:
         run: |
           zip -r Unsimply-Decent.mrpack the_checkout/Modrinth/
           zip -r Unsimply-Decent.zip the_checkout/Curseforge/
-      - name: Upload artifacts
+      - name: Upload artifacts Modrinth
         uses: actions/upload-artifact@v7
         with:
-          name: unsimply-decent-builds
-          path: |
-            Unsimply-Decent.mrpack
-            Unsimply-Decent.zip
+          name: Unsimply-Decent.mrpack
+          path: Unsimply-Decent.mrpack
+          archive: false
+      - name: Upload artifacts Curseforge
+        uses: actions/upload-artifact@v7
+        with:
+          name: Unsimply-Decent.zip
+          path: Unsimply-Decent.zip
           archive: false
