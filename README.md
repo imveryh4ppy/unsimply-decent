@@ -5,8 +5,8 @@ A fabric modpack that makes Minecraft have higher performance with lots of mods.
 This modpack uses lots of mods to make Minecraft have higher performance as Minecraft is not really optimized, and this modpack easy the process of finding mods.
 
 # Downloads
-[![GitHub Releases](readme-stuff/download-github.png)](https://github.com/imveryh4ppy/unsimply-decent/releases/latest)
-[![Modrinth](readme-stuff/download-modrinth.png)](https://modrinth.com/modpack/unsimply-decent)
+[<img src="readme-stuff/download-github.png" width="200" height="100">](https://github.com/imveryh4ppy/unsimply-decent/releases/latest)
+[<img src="readme-stuff/download-modrinth.png" width="200" height="100">)](https://modrinth.com/modpack/unsimply-decent)
 
 # Modlist
 - [Almanac](https://modrinth.com/mod/Gi02250Z) by frikinjay
