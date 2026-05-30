@@ -1,24 +1,25 @@
 on:
   push:
     branches:
-    - main/Modrinth/*
-    - main/Curseforge/*
+      - main/Modrinth/*
+      - main/Curseforge/*
   workflow_dispatch:
+
 jobs:
   build-modpack:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-      - uses: actions/checkout@v6
+        uses: actions/checkout@v6
         with:
           ref: '26.1.2'
           path: 'the_checkout'
       - name: Build modpack
-      - run: sudo apt-get install zip
-      - run: zip -r Unsimply-Decent.mrpack the_checkout/Modrinth/*
-      - run: zip -r Unsimply-Decent.zip the_checkout/Curseforge/*
+        run: sudo apt-get update && sudo apt-get install -y zip
+        run: zip -r Unsimply-Decent.mrpack the_checkout/Modrinth/*
+        run: zip -r Unsimply-Decent.zip the_checkout/Curseforge/*
       - name: Upload artifacts
-      - uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v4
         with:
           name: unsimply-decent-builds
           path:
