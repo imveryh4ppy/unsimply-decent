@@ -11,19 +11,16 @@ jobs:
       - name: Checkout Repository
       - uses: actions/checkout@v6
         with:
-          repository: 'imveryh4ppy/unsimply-decent'
-          path: 'the_repository_itself'
+          ref: '26.1.2'
+          path: 'the_checkout'
       - name: Build modpack
       - run: sudo apt-get install zip
-      - run: zip -r Unsimply-Decent.mrpack $GITHUB_WORKSPACE/the_repository_itself/Modrinth/*
-      - run: zip -r Unsimply-Decent.zip $GITHUB_WORKSPACE/the_repository_itself/Curseforge/*
-      - name: Upload artifacts modrinth
+      - run: zip -r Unsimply-Decent.mrpack the_checkout/Modrinth/*
+      - run: zip -r Unsimply-Decent.zip the_checkout/Curseforge/*
+      - name: Upload artifacts
       - uses: actions/upload-artifact@v4
         with:
-          name: unsimply-decent-modrinth
-          path: Unsimply-Decent.mrpack
-      - name: Upload artifacts curseforge
-      - uses: actions/upload-artifact@v4
-        with:
-          name: unsimply-decent-curseforge
-          path: Unsimply-Decent.zip
+          name: unsimply-decent-builds
+          path:
+            - Unsimply-Decent.mrpack
+            - Unsimply-Decent.zip
