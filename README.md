@@ -1,8 +1,11 @@
 # Unsimply Decent
 A fabric modpack that makes Minecraft have higher performance with lots of mods.
 
+# What does this do?
+This adds mods that boosts Minecraft performance bot rendering and minecraft simulations, and also add features like dynamic lights, faster server pinging, connected glass, and better-looking F3!
+
 # Why should i use this?
-This modpack uses lots of mods to make Minecraft have higher performance as Minecraft is not really optimized, and this modpack easy the process of finding mods.
+This modpack uses lots of mods to make Minecraft have higher performance and have optifine-like features with some extra useful features!
 
 # Downloads
 [<img src="readme-stuff/download-github.png" width="200" height="100">](https://github.com/imveryh4ppy/unsimply-decent/releases/latest)
@@ -11,9 +14,13 @@ This modpack uses lots of mods to make Minecraft have higher performance as Mine
 # Modlist
 - [Almanac](https://modrinth.com/mod/Gi02250Z) by frikinjay
 - [BadOptimizations](https://modrinth.com/mod/g96Z4WVZ) by Thosea
+- [BetterF3](https://modrinth.com/mod/8shC1gFX) by cominixo, TreyRuffy
 - [Cloth Config v26\.1](https://modrinth.com/mod/9s6osm5g) by shedaniel
+- [Continuity](https://modrinth.com/mod/1IjD5062) by PepperCode1
 - [Cull Leaves](https://modrinth.com/mod/GNxdLCoP) by Motschen, TeamMidnightDust
 - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) by juliand665, LostLuma
+- [Entity Model Features](https://modrinth.com/mod/4I1XuqiY) by Traben
+- [Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) by Traben
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) by tr7zw
 - [Fabric API](https://modrinth.com/mod/P7dR8mSH) by FabricMC
 - [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) by FabricMC
@@ -22,9 +29,9 @@ This modpack uses lots of mods to make Minecraft have higher performance as Mine
 - [Fzzy Config](https://modrinth.com/mod/hYykXjDp) by fzzyhmstrs
 - [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) by RK\_01
 - [Ixeris](https://modrinth.com/mod/p8RJPJIC) by decce
-- [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) by mezz
 - [Krypton](https://modrinth.com/mod/fQEb0iXm) by tuxed
 - [Ksyxis](https://modrinth.com/mod/2ecVyZ49) by VidTu
+- [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) by LambdAurora
 - [Lithium](https://modrinth.com/mod/gvQqBUqZ) by JellySquid, 2No2Name
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM) by Prospector, haykam821, gniftygnome, TerraformersMC
 - [ModernFix](https://modrinth.com/mod/TjSm1wrD) by embeddedt
@@ -36,10 +43,8 @@ This modpack uses lots of mods to make Minecraft have higher performance as Mine
 - [Placeholder API](https://modrinth.com/mod/eXts2L7r) by Patbox
 - [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) by FlashyReese
 - [Server Pinger Fixer](https://modrinth.com/mod/iqK5uv72) by JustAlittleWolf
-- [ServerCore](https://modrinth.com/mod/4WWQxlQP) by Wesley1808
 - [Sodium](https://modrinth.com/mod/AANobbMI) by JellySquid \(jellysquid3\)
 - [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) by FlashyReese
 - [Very Many Players](https://modrinth.com/mod/wnEe9KBa) by ishland
-- [XXLPackets](https://modrinth.com/mod/SeCuopwJ) by Tfarecnim \(Original Creator\), Lazul1ne \(Unavaliable on Curseforge\)
 - [lazy\-language\-loader](https://modrinth.com/mod/Nz0RSWrF) by ChachyDev
 - [spark](https://modrinth.com/mod/l6YH9Als) by Luck
