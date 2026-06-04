@@ -8,8 +8,8 @@ This adds mods that boosts Minecraft performance bot rendering and minecraft sim
 This modpack uses lots of mods to make Minecraft have higher performance and have optifine-like features with some extra useful features!
 
 # Downloads
-[<img src="readme-stuff/download-github.png" width="200" height="100">](https://github.com/imveryh4ppy/unsimply-decent/releases/latest)
-[<img src="readme-stuff/download-modrinth.png" width="200" height="100">)](https://modrinth.com/modpack/unsimply-decent)
+[<img src="readme-stuff/download-github.png" width="200" height="100" alt="GitHub Releases Download">](https://github.com/imveryh4ppy/unsimply-decent/releases/latest)
+[<img src="readme-stuff/download-modrinth.png" width="200" height="100" alt="Modrinth Download">)](https://modrinth.com/modpack/unsimply-decent)
 
 # Modlist
 - [Almanac](https://modrinth.com/mod/Gi02250Z) by frikinjay
