@@ -13,7 +13,7 @@ This modpack uses lots of mods to make Minecraft have higher performance and hav
 # Downloads
 [<img src="readme-stuff/download-github.png" width="200" height="100" alt="GitHub Releases Download">](https://github.com/imveryh4ppy/unsimply-decent/releases/latest)
 [<img src="readme-stuff/download-modrinth.png" width="200" height="100" alt="Modrinth Download">)](https://modrinth.com/modpack/unsimply-decent)
-[<img src="readme-stuff/download-modrinth.png" width="200" height="100" alt="GitHub Releases pre-release Download">)](https://github.com/imveryh4ppy/unsimply-decent/releases/tag/1.1.0)
+[<img src="readme-stuff/download-github-prerelease.png" width="200" height="100" alt="GitHub Releases pre-release Download">)](https://github.com/imveryh4ppy/unsimply-decent/releases/tag/1.1.0)
 
 # Modlist
 - [Almanac](https://modrinth.com/mod/Gi02250Z) by frikinjay
