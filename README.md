@@ -1,5 +1,8 @@
 # Unsimply Decent
-A fabric modpack that makes Minecraft have higher performance with lots of mods.
+A fabric modpack that makes Minecraft have higher performance with lots of mods.<br>
+![GitHub License](https://img.shields.io/github/license/imveryh4ppy/unsimply-decent)
+![Modrinth Version](https://img.shields.io/modrinth/v/JVXP1ozU)
+![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/JVXP1ozU)
 
 # What does this do?
 This adds mods that boosts Minecraft performance bot rendering and minecraft simulations, and also add features like dynamic lights, faster server pinging, connected glass, and better-looking F3!
