@@ -15,6 +15,17 @@ This modpack uses lots of mods to make Minecraft have higher performance and hav
 [<img src="readme-stuff/download-modrinth.png" width="200" height="100" alt="Modrinth Download">](https://modrinth.com/modpack/unsimply-decent)
 [<img src="readme-stuff/download-github-prelease.png" width="200" height="100" alt="GitHub Releases pre-release Download">](https://github.com/imveryh4ppy/unsimply-decent/releases/tag/1.1.0)
 
+# Mods that most modpacks miss
+- [AsyncParticles](https://modrinth.com/mod/c3onkd5k) by Harvey\_Husky
+- [Fast IP Ping](https://modrinth.com/mod/9mtu0sUO) by Fallen\_Breath
+- [Nvidium](https://modrinth.com/mod/SfMw2IZN) by Cortex
+- [Optimized block entities](https://modrinth.com/mod/AtOSAunf) by maDU59\_
+- [Oxidizium Panama](https://modrinth.com/mod/TLtbk2Er) by QPCrummer
+- [Packet Fixer](https://modrinth.com/mod/c7m1mi73) by TonimatasDEV
+- [Particle Core](https://modrinth.com/mod/RSeLon5O) by fzzyhmstrs
+- [Server Pinger Fixer](https://modrinth.com/mod/iqK5uv72) by JustAlittleWolf
+- [quick\-pack](https://modrinth.com/mod/pSISfJ4O) by Drex
+
 # Modlist
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) by squeek502
 - [AsyncParticles](https://modrinth.com/mod/c3onkd5k) by Harvey\_Husky
