@@ -8,7 +8,7 @@ A fabric modpack that makes Minecraft have higher performance with lots of mods.
 This adds mods that boosts Minecraft performance bot rendering and minecraft simulations, and also add features like dynamic lights, faster server pinging, connected glass, and better-looking F3!
 
 # Why should i use this?
-This modpack uses lots of mods to make Minecraft have higher performance and have optifine-like features with some extra useful features!
+This modpack uses lots of mods to make Minecraft have higher performance and have optifine-like features with some extra useful features! And most modpacks miss some good mods which this modpack aims for.
 
 # Downloads
 [<img src="readme-stuff/download-github.png" width="200" height="100" alt="GitHub Releases Download">](https://github.com/imveryh4ppy/unsimply-decent/releases/latest)
